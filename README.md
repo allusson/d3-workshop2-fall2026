@@ -70,11 +70,11 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+> Lance Stroll differed the most from the winner Max Verstappen. This is demonstrated by the fact that he used three tires over the course of the race. Additionally he was one of two drivers to start on soft tyres, with the winner Verstappen starting on Mediums.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> 
 
 **Bonus** (optional): which race did you add, and why?
 
